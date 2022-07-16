@@ -1,12 +1,11 @@
 [
 {
-  "modid": "",
-  "name": "",
+  "modid": "conduits",
+  "name": "Conduits",
   "description": "",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
+  "url": "https://github.com/ISurrealI/Conduits",
   "authorList": ["Surreal"],
   "logoFile": ""
 }
